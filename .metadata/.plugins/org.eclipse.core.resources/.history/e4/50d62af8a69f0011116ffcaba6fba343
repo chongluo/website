@@ -146,7 +146,7 @@
     </div>
 
     <script>
-   var _gaq = [['_setAccount', 'UA-31812632-2'], ['_trackPageview']];
+   var _gaq = [['_setAccount', 'UA-7437527-1'], ['_trackPageview']];
    (function(d, t) {
     var g = d.createElement(t),
         s = d.getElementsByTagName(t)[0];
