@@ -157,8 +157,10 @@ $apps[3] = Array(
     <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 <!-- asynchronous google analytics: mathiasbynens.be/notes/async-analytics-snippet
        change the UA-XXXXX-X to be your site's ID -->
+
+</body>
   <script>
-   var _gaq = [['_setAccount', 'UA-31812632-2'], ['_trackPageview']];
+   var _gaq = [['_setAccount', 'UA-31812632-1'], ['_trackPageview']];
    (function(d, t) {
     var g = d.createElement(t),
         s = d.getElementsByTagName(t)[0];
@@ -167,5 +169,4 @@ $apps[3] = Array(
     s.parentNode.insertBefore(g, s);
    })(document, 'script');
   </script>
-</body>
 </html>
