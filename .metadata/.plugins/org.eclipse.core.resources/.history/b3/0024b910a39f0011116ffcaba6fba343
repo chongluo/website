@@ -40,6 +40,19 @@ $apps[3] = Array(
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31812632-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
     <title>Chong Luo's IPad</title>
 	<meta charset="utf-8">
     <meta name="description" content="This is a jquery iPad2 simulator, this is only an experiment of what can be done with javascript in ast browsers">
