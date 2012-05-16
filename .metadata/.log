@@ -54,3 +54,6 @@ java.net.SocketTimeoutException: Accept timed out
 
 !ENTRY com.aptana.js.debug.core 1 0 2012-05-13 21:32:49.798
 !MESSAGE Extension version: 1.7.2; protocol v1
+
+!ENTRY com.aptana.js.debug.core 1 0 2012-05-16 09:11:09.581
+!MESSAGE Extension version: 1.7.2; protocol v1
