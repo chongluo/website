@@ -67,6 +67,9 @@ $apps[4] = Array(
 </head>
 <body id="ipad">
 <div id="externalContainer">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://alexw.me/ipad2" data-text="iPad2 simulator /w Css3, Jquery and HTML5" data-count="vertical" data-via="altryne">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    <div></div>
+    <g:plusone size="tall" href="http://alexw.me/ipad2"></g:plusone>
     <div id="content_overflow">
     <div id="content" class="hide_spring">
         <div id="window"></div>

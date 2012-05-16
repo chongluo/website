@@ -57,3 +57,16 @@ java.net.SocketTimeoutException: Accept timed out
 
 !ENTRY com.aptana.js.debug.core 1 0 2012-05-16 09:11:09.581
 !MESSAGE Extension version: 1.7.2; protocol v1
+!SESSION 2012-05-16 09:52:57.531 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_29
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/chongluo/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/chongluo/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.resources 2 10035 2012-05-16 09:53:08.074
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-16 09:53:14.647
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
