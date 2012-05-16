@@ -30,10 +30,19 @@ $apps[2] = Array(
     'iMovie',
 );
 $apps[3] = Array(
+    'Mail',
+    'Stocks',
+    'Maps',
+    'Messages',
+    'Notes',
+    'Photos',
+    'iMovie',
+);
+
+$apps[4] = Array(
     'Resume',
     'Project',
     'Blog',
-    'Safari',
 );
 ?>
 
@@ -119,7 +128,7 @@ $apps[3] = Array(
         </ul>
         <ul id="dock" class="apps">
             <?php
-                foreach($apps[3] as $kk=>$vv){
+                foreach($apps[4] as $kk=>$vv){
                         echo '<li id="'.str_replace(' ','',strtolower($vv)).'" class="app">
                                 <div class="delete">x</div>
                                 <div class="app_logo" style="background-image:url(\'apps/'.str_replace(' ','',strtolower($vv)).'.jpg\')"></div>
@@ -158,7 +167,7 @@ $apps[3] = Array(
 <!-- asynchronous google analytics: mathiasbynens.be/notes/async-analytics-snippet
        change the UA-XXXXX-X to be your site's ID -->
   <script>
-   var _gaq = [['_setAccount', 'UA-31812632-1'], ['_trackPageview']];
+   var _gaq = [['_setAccount', 'UA-7437527-1'], ['_trackPageview']];
    (function(d, t) {
     var g = d.createElement(t),
         s = d.getElementsByTagName(t)[0];

@@ -70,3 +70,63 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/chongluo
 
 !ENTRY org.eclipse.core.net 1 0 2012-05-16 09:53:14.647
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.resources 4 1 2012-05-16 13:59:54.792
+!MESSAGE Problems occurred while refreshing local changes
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2012-05-16 13:59:54.793
+!MESSAGE Problems occurred while refreshing local changes
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Errors occurred while refreshing resources with the local file system.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.refreshResource(FileSystemResourceManager.java:923)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.refresh(FileSystemResourceManager.java:904)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1663)
+	at org.eclipse.core.internal.refresh.RefreshJob.runInWorkspace(RefreshJob.java:167)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Contains: The project description file (.project) for 'ChongLuoWebsite' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!SUBENTRY 2 org.eclipse.core.resources 4 271 2012-05-16 13:59:54.833
+!MESSAGE Errors occurred while refreshing resources with the local file system.
+!SUBENTRY 3 org.eclipse.core.resources 4 567 2012-05-16 13:59:54.833
+!MESSAGE The project description file (.project) for 'ChongLuoWebsite' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+
+!ENTRY com.aptana.git.core 4 0 2012-05-16 13:59:55.285
+!MESSAGE (Build 3.0.0.1335200193) [ERROR] com.aptana.git.core/debug /Users/chongluo/Sites/Website/ChongLuoWebsite/.git/config (No such file or directory)
+!STACK 0
+java.io.FileNotFoundException: /Users/chongluo/Sites/Website/ChongLuoWebsite/.git/config (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:120)
+	at com.aptana.git.core.model.GitRepository.configContents(GitRepository.java:1289)
+	at com.aptana.git.core.model.GitRepository.remoteTrackingBranch(GitRepository.java:1227)
+	at com.aptana.git.core.model.GitRepository.matchingRemoteBranch(GitRepository.java:1178)
+	at com.aptana.git.core.model.GitRepository.commitsAhead(GitRepository.java:1159)
+	at com.aptana.git.ui.internal.GitLightweightDecorator.decorateProject(GitLightweightDecorator.java:260)
+	at com.aptana.git.ui.internal.GitLightweightDecorator.decorate(GitLightweightDecorator.java:158)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:263)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:81)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:370)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:330)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.aptana.git.core 4 0 2012-05-16 13:59:55.337
+!MESSAGE (Build 3.0.0.1335200193) [ERROR] com.aptana.git.core/debug /Users/chongluo/Sites/Website/ChongLuoWebsite/.git/config (No such file or directory)
+!STACK 0
+java.io.FileNotFoundException: /Users/chongluo/Sites/Website/ChongLuoWebsite/.git/config (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:120)
+	at com.aptana.git.core.model.GitRepository.configContents(GitRepository.java:1289)
+	at com.aptana.git.core.model.GitRepository.remoteTrackingBranch(GitRepository.java:1227)
+	at com.aptana.git.core.model.GitRepository.matchingRemoteBranch(GitRepository.java:1178)
+	at com.aptana.git.core.model.GitRepository.commitsBehind(GitRepository.java:1205)
+	at com.aptana.git.ui.internal.GitLightweightDecorator.decorateProject(GitLightweightDecorator.java:269)
+	at com.aptana.git.ui.internal.GitLightweightDecorator.decorate(GitLightweightDecorator.java:158)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:263)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:81)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:370)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:330)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)

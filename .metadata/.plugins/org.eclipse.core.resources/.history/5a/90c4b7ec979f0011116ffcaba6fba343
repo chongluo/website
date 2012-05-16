@@ -428,7 +428,7 @@ function launchApp(app_id){
                 //cehck if multitasked
                 if(!$('#'+app_id+'_app').length){
                     $('#iframe_holder iframe').removeClass('onFront');
-                    $('#iframe_holder').append('<iframe id="'+app_id+'_app" class="app_iframe" src=app.html'+_appToLaunch+'" scrolling="no" width="884" height="641"></iframe>');
+                    $('#iframe_holder').append('<iframe id="'+app_id+'_app" class="app_iframe" src='+app_id+'.html'+_appToLaunch+'" scrolling="no" width="884" height="641"></iframe>');
                     $('#'+app_id+'_app').addClass('onFront');
                     $('#'+app_id).clone().prependTo('#multitask_bar ul').find('.delete').html('&ndash;');
                     if($('#multitask_bar li').length > 4){
