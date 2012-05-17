@@ -38,10 +38,10 @@ $(document).ready(function(){
 		
 		webcam.freeze();
 	
-		setTimeout("webcam.reset",1000);
-		
+		setTimeout(webcam.upload,1000);
+		webcam.reset;
 		//togglePane();
-		return false;
+		//return false;
 	});
 	
 	/*$('#cancelButton').click(function(){
