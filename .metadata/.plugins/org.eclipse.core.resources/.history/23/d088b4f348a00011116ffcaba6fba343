@@ -128,7 +128,7 @@ Check out the screenshots section for a look at the code
 				<a class="lightbox" rel="mypics" title="description item 1">
 					<img src="img/chongluo.JPG" alt="chong luo" height="100" width="100">
 				</a>
-				<h1><cufon style="width: 111px; height: 40px;" alt="Chong " class="cufon cufon-canvas"><canvas style="width: 187px; height: 59px; top: -8px; left: -9px;" height="59" width="187"></canvas><cufontext>Chong </cufontext></cufon><cufon style="width: 123px; height: 40px;" alt="Luo" class="cufon cufon-canvas"><canvas style="width: 183px; height: 59px; top: -8px; left: -9px;" height="59" width="183"></canvas><cufontext>Luo</cufontext></cufon></h1>
+				<h1><cufon style="width: 111px; height: 48px;" alt="Chong " class="cufon cufon-canvas"><canvas style="width: 187px; height: 59px; top: -8px; left: -9px;" height="59" width="187"></canvas><cufontext>John </cufontext></cufon><cufon style="width: 123px; height: 48px;" alt="Smith" class="cufon cufon-canvas"><canvas style="width: 183px; height: 59px; top: -8px; left: -9px;" height="59" width="183"></canvas><cufontext>Smith</cufontext></cufon></h1>
 				<h2>Software/Application Developer</h2>
 			</div>
 			

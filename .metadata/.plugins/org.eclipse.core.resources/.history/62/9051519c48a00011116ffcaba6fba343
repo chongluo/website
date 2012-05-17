@@ -128,8 +128,8 @@ Check out the screenshots section for a look at the code
 				<a class="lightbox" rel="mypics" title="description item 1">
 					<img src="img/chongluo.JPG" alt="chong luo" height="100" width="100">
 				</a>
-				<h1><cufon style="width: 111px; height: 40px;" alt="Chong " class="cufon cufon-canvas"><canvas style="width: 187px; height: 59px; top: -8px; left: -9px;" height="59" width="187"></canvas><cufontext>Chong </cufontext></cufon><cufon style="width: 123px; height: 40px;" alt="Luo" class="cufon cufon-canvas"><canvas style="width: 183px; height: 59px; top: -8px; left: -9px;" height="59" width="183"></canvas><cufontext>Luo</cufontext></cufon></h1>
-				<h2>Software/Application Developer</h2>
+				<h1><cufon style="width: 111px; height: 48px;" alt="John " class="cufon cufon-canvas"><canvas style="width: 187px; height: 59px; top: -8px; left: -9px;" height="59" width="187"></canvas><cufontext>John </cufontext></cufon><cufon style="width: 123px; height: 48px;" alt="Smith" class="cufon cufon-canvas"><canvas style="width: 183px; height: 59px; top: -8px; left: -9px;" height="59" width="183"></canvas><cufontext>Smith</cufontext></cufon></h1>
+				<h2>Front End Developer</h2>
 			</div>
 			
 			<div id="contact-info">
@@ -141,9 +141,9 @@ Check out the screenshots section for a look at the code
 					<li><a href="#" title="Send me a message" class="tip"><img src="_%20CV%20_%20RESUME%20Template%20__files/yahoo.png" alt="contact me"></a></li>
 				</ul>
 				<ul>
-					<li>e: <a href="mailto:chongluo@usc.edu">chongluo@usc.edu</a></li>
-					<li>w: <a href="http://184.169.161.77">Personal Website</a></li>
-					<li>p: <strong>(213) 572-9858</strong></li>
+					<li>e: <a href="mailto:john@site.com">john@sitename.com</a></li>
+					<li>w: <a href="http://www.bitpublimedia.ro/themeforest/resume/johnsmith.com">johnsmithssite.com</a></li>
+					<li>p: <strong>(123) 456-7890</strong></li>
 				</ul>
 			</div>
 	
