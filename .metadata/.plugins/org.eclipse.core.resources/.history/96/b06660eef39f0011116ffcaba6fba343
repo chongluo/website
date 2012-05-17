@@ -197,9 +197,6 @@ h2{
 
 .blueButton:hover,
 .greenButton:hover{
-	position:absolute;
-	right: 400px;
-	bottom: 30px;
 	background-position:left bottom;
 	text-decoration:none !important;
 }
