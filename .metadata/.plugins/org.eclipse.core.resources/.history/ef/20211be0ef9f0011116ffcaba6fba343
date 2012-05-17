@@ -132,7 +132,7 @@ h2{
 	cursor:pointer;
 }
 
-/*.settings{
+.settings{
 	background:url('../img/settings.png') no-repeat;
 	cursor: pointer;
 	height: 28px;
@@ -140,7 +140,7 @@ h2{
 	right: 37px;
 	top: 448px;
 	width: 30px;
-}*/
+}
 
 .settings:hover{
 	background-position:left bottom;
