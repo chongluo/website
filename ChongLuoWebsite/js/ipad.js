@@ -434,6 +434,12 @@ function launchApp(app_id){
                     if(app_id == "blog"){
         				$('#iframe_holder').append('<iframe id="'+app_id+'_app" class="app_iframe" src=wordpress'+_appToLaunch+'" scrolling="yes" width="884" height="641"></iframe>');
     				}
+    				else if (app_id=="resume"){
+    					$('#iframe_holder').append('<iframe id="'+app_id+'_app" class="app_iframe" src='+app_id+'.php'+_appToLaunch+'" scrolling="yes" width="884" height="641"></iframe>');	
+    				}
+    				else if (app_id=="camera"){
+    					$('#iframe_holder').append('<iframe id="'+app_id+'_app" class="app_iframe" src=wordpress'+_appToLaunch+'" scrolling="yes" width="884" height="641"></iframe>');	
+    				}
     				else{
     					$('#iframe_holder').append('<iframe id="'+app_id+'_app" class="app_iframe" src='+app_id+'.php'+_appToLaunch+'" scrolling="no" width="884" height="641"></iframe>');
     				}
