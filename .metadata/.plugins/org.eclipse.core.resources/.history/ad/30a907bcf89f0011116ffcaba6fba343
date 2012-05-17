@@ -163,17 +163,6 @@ h2{
 	position:absolute;
 	right: 400px;
 	bottom: 30px;
-	text-shadow:1px 1px 1px #277c9b;
-	color:#fff !important;
-	width:99px;
-	height:38px;
-	border:none;
-	text-decoration:none;
-	display:inline-block;
-	font-size: 16px;
-	line-height: 32px;
-	text-align: center;
-	margin: 0 4px;
 }
 
 

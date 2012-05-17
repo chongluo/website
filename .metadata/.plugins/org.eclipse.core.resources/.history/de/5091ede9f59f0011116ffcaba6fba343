@@ -143,9 +143,9 @@ h2{
 	width: 30px;
 }*/
 
-/*.settings:hover{
+.settings:hover{
 	background-position:left bottom;
-}*/
+}
 
 #screen{
 	width:885px;
@@ -158,26 +158,8 @@ h2{
 	color:#666;
 }
 
-#shootButton{
-	background:url('../img/buttons.png') no-repeat;
+.buttonPane{
 	position:absolute;
-	right: 400px;
-	bottom: 30px;
-	text-shadow:1px 1px 1px #277c9b;
-	color:#fff !important;
-	width:99px;
-	height:38px;
-	border:none;
-	text-decoration:none;
-	display:inline-block;
-	font-size: 16px;
-	line-height: 32px;
-	text-align: center;
-	margin: 0 4px;
-}
-
-
-/*.buttonPane{
 	right: 400px;
 	bottom: 30px;
 	text-align: center;
@@ -216,12 +198,11 @@ h2{
 	text-shadow:1px 1px 1px #498917;
 }
 
-.blueButton:hover,
+/*.blueButton:hover,
 .greenButton:hover{
-	
-	/*background-position:left bottom;*/
-/*	text-decoration:none !important;
-}
+	background-position:left bottom;
+	text-decoration:none !important;
+}*/
 
 .greenButton:hover{
 	background-position:right bottom;
@@ -230,14 +211,14 @@ h2{
 .blueButton:active,
 .greenButton:active{
 	position:relative;
-
+	bottom:-1px;
 }
 
 .hidden{
 	display:none;
 }
 
-*/
+
 /*-------------------------
 	Generic styles
 --------------------------*/

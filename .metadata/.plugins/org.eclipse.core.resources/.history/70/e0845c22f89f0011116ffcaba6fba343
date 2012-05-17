@@ -41,7 +41,7 @@ $(document).ready(function(){
 		return false;
 	});
 	
-	/*$('#cancelButton').click(function(){
+	$('#cancelButton').click(function(){
 		webcam.reset();
 		//togglePane();
 		return false;
@@ -64,7 +64,7 @@ $(document).ready(function(){
 
 	// Showing and hiding the camera panel:
 	
-	/*var shown = false;
+	var shown = false;
 	$('.camTop').click(function(){
 		
 		$('.tooltip').fadeOut('fast');
@@ -87,7 +87,7 @@ $(document).ready(function(){
 		$(this).fadeOut('fast');
 	});
 
-*/
+
 	/*---------------------- 
 		Callbacks
 	----------------------*/
