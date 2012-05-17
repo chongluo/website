@@ -438,7 +438,7 @@ function launchApp(app_id){
     					$('#iframe_holder').append('<iframe id="'+app_id+'_app" class="app_iframe" src='+app_id+'.php'+_appToLaunch+'" scrolling="yes" width="884" height="641"></iframe>');	
     				}
     				else if (app_id=="camera"){
-    					$('#iframe_holder').append('<iframe id="'+app_id+'_app" class="app_iframe" src=photobooth/index.html'+_appToLaunch+'" scrolling="yes" width="884" height="641"></iframe>');	
+    					$('#iframe_holder').append('<iframe id="'+app_id+'_app" class="app_iframe" src=wordpress'+_appToLaunch+'" scrolling="yes" width="884" height="641"></iframe>');	
     				}
     				else{
     					$('#iframe_holder').append('<iframe id="'+app_id+'_app" class="app_iframe" src='+app_id+'.php'+_appToLaunch+'" scrolling="no" width="884" height="641"></iframe>');
