@@ -9,6 +9,14 @@
 
 </head>
 <body>
+
+<div id="topBar">
+    <h1>jQuery &amp; CSS3 Photobooth</h1>
+    <h2><a href="http://tutorialzine.com/2011/04/jquery-webcam-photobooth/">&laquo; Go back to Tutorialzine</a></h2>
+</div>
+
+<div id="photos"></div>
+
 <div id="camera">
 	<span class="tooltip"></span>
 	<span class="camTop"></span>

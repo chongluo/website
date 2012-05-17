@@ -152,7 +152,7 @@ h2{
 	/*margin: 66px auto 22px;*/
 	background:#ccc;
 	
-	/*line-height: 360px;*/
+	line-height: 360px;
     text-align: center;
 	color:#666;
 }

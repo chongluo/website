@@ -147,12 +147,12 @@ h2{
 }
 
 #screen{
-	width:885px;
-	height:663px;
-	/*margin: 66px auto 22px;*/
+	width:520px;
+	height:370px;
+	margin: 66px auto 22px;
 	background:#ccc;
 	
-	/*line-height: 360px;*/
+	line-height: 360px;
     text-align: center;
 	color:#666;
 }

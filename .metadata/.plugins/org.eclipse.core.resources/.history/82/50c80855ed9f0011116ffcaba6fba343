@@ -106,10 +106,10 @@ h2{
 #camera{
 	background:url('../img/cam_bg.jpg') repeat-y;
 	border:1px solid #f0f0f0;
-	height:663px;
-	width:885px;
+	height:525px;
+	width:598px;
 	position:fixed;
-	/*bottom: -466px;*/
+	bottom: -466px;
 	left:50%;
 	margin-left:-300px;
 
@@ -147,12 +147,12 @@ h2{
 }
 
 #screen{
-	width:885px;
-	height:663px;
-	/*margin: 66px auto 22px;*/
+	width:520px;
+	height:370px;
+	margin: 66px auto 22px;
 	background:#ccc;
 	
-	/*line-height: 360px;*/
+	line-height: 360px;
     text-align: center;
 	color:#666;
 }

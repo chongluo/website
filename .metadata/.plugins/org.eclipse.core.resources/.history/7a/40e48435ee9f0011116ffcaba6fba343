@@ -9,6 +9,9 @@
 
 </head>
 <body>
+
+<div id="photos"></div>
+
 <div id="camera">
 	<span class="tooltip"></span>
 	<span class="camTop"></span>
