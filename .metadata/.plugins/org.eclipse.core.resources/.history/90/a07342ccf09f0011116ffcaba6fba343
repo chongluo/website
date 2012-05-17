@@ -109,10 +109,9 @@ h2{
 	height:663px;
 	width:885px;
 	position:fixed;
-	
 	/*bottom: -466px;*/
-	/*left:50%;*/
-	margin-left:-20px;
+	/*left:50%;
+	margin-left:-300px;*/
 
 	/*-moz-border-radius:4px 4px 0 0;
 	-webkit-border-radius:4px 4px 0 0;
