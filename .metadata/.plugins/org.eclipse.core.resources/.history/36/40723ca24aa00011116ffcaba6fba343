@@ -180,29 +180,11 @@ Check out the screenshots section for a look at the code
 			
 			<div class="cv-section-items">
 				
-				<div class="item">
+				<div class="item last-item">
 					<!--<h2><cufon style="width: 68px; height: 22px;" alt="University " class="cufon cufon-canvas"><canvas style="width: 104px; height: 27px; top: -4px; left: -4px;" height="27" width="104"></canvas><cufontext>University </cufontext></cufon><cufon style="width: 52px; height: 22px;" alt="State " class="cufon cufon-canvas"><canvas style="width: 87px; height: 27px; top: -4px; left: -4px;" height="27" width="87"></canvas><cufontext>Of </cufontext></cufon><cufon style="width: 93px; height: 22px;" alt="University" class="cufon cufon-canvas"><canvas style="width: 122px; height: 27px; top: -4px; left: -4px;" height="27" width="122"></canvas><cufontext>Souther</cufontext></cufon></h2>
 					-->
-					<h4>May 2012</h4>
-					<h2>M.S., Electrical Engineering</h2>
-					<h3>University of Southern California,  Los Angeles, CA</h3>
-					
-					
-					<br>
-					<p>Aenean a pellentesque tortor. Praesent justo nibh, tempus vel
-					 scelerisque eget, tempus id quam. Praesent egestas nulla sit amet
-					 nulla cursus a lobortis lorem pulvinar. Maecenas venenatis, elit
-					 et viverra ultrices, mauris justo rutrum orcis.</p>	
-				</div><!-- end .item -->
-				
-				<div class="item">
-					<!--<h2><cufon style="width: 68px; height: 22px;" alt="University " class="cufon cufon-canvas"><canvas style="width: 104px; height: 27px; top: -4px; left: -4px;" height="27" width="104"></canvas><cufontext>University </cufontext></cufon><cufon style="width: 52px; height: 22px;" alt="State " class="cufon cufon-canvas"><canvas style="width: 87px; height: 27px; top: -4px; left: -4px;" height="27" width="87"></canvas><cufontext>Of </cufontext></cufon><cufon style="width: 93px; height: 22px;" alt="University" class="cufon cufon-canvas"><canvas style="width: 122px; height: 27px; top: -4px; left: -4px;" height="27" width="122"></canvas><cufontext>Souther</cufontext></cufon></h2>
-					-->
-					<h4>July 2010</h4>
-					<h2>B.E., Communication Engineering</h2>
-					<h3>South China Agricultural University, Guangzhou, China</h3>
-					
-					
+					<h2>University of Souther California</h2>
+					<h3>Dual Major, Web Design and English - 3.9 GPA</h3>
 					<br>
 					<p>Aenean a pellentesque tortor. Praesent justo nibh, tempus vel
 					 scelerisque eget, tempus id quam. Praesent egestas nulla sit amet

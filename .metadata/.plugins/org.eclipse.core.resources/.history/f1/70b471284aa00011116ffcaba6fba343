@@ -135,10 +135,11 @@ Check out the screenshots section for a look at the code
 			
 			<div id="contact-info">
 				<ul id="social-media">
-					
+					<li><a href="#" title="Flickr Profile" class="tip"><img src="_%20CV%20_%20RESUME%20Template%20__files/flickr.png" alt="flickr icon"></a></li>
+					<li><a href="#" title="Twitter Profile" class="tip"><img src="_%20CV%20_%20RESUME%20Template%20__files/twitter.png" alt="twitter icon"></a></li>
 					<li><a href="#" title="Facebook Profile" class="tip"><img src="_%20CV%20_%20RESUME%20Template%20__files/facebook.png" alt="facebook icon"></a></li>
 					<li><a href="#" title="Linked InProfile" class="tip"><img src="_%20CV%20_%20RESUME%20Template%20__files/linkedin.png" alt="linkedin icon"></a></li>
-					
+					<li><a href="#" title="Send me a message" class="tip"><img src="_%20CV%20_%20RESUME%20Template%20__files/yahoo.png" alt="contact me"></a></li>
 				</ul>
 				<ul>
 					<li>e: <a href="mailto:chongluo@usc.edu">chongluo@usc.edu</a></li>
@@ -166,48 +167,6 @@ Check out the screenshots section for a look at the code
 					 tristique enim. Nunc fringilla, enim vel accumsan tincidunt, lacus
 					 turpis vestibulum nibh, vel mattis ante diam ut nisl. Sed sit amet
 					 mauris justo.</p>
-				</div><!-- end .item -->
-				
-			</div><!-- end .cv-section-items -->
-			
-		</div><!-- end .cv-section -->
-		
-		<!-- // EDUCATION ////////////////////////////////////////////////////////////////// -->
-		
-		<div class="cv-section last-cv-section fixed">
-		
-			<h2 class="cv-section-name"><cufon style="width: 97px; height: 24px;" alt="Education" class="cufon cufon-canvas"><canvas style="width: 128px; height: 29px; top: -4px; left: -5px;" height="29" width="128"></canvas><cufontext>Education</cufontext></cufon></h2>
-			
-			<div class="cv-section-items">
-				
-				<div class="item">
-					<!--<h2><cufon style="width: 68px; height: 22px;" alt="University " class="cufon cufon-canvas"><canvas style="width: 104px; height: 27px; top: -4px; left: -4px;" height="27" width="104"></canvas><cufontext>University </cufontext></cufon><cufon style="width: 52px; height: 22px;" alt="State " class="cufon cufon-canvas"><canvas style="width: 87px; height: 27px; top: -4px; left: -4px;" height="27" width="87"></canvas><cufontext>Of </cufontext></cufon><cufon style="width: 93px; height: 22px;" alt="University" class="cufon cufon-canvas"><canvas style="width: 122px; height: 27px; top: -4px; left: -4px;" height="27" width="122"></canvas><cufontext>Souther</cufontext></cufon></h2>
-					-->
-					<h4>May 2012</h4>
-					<h2>M.S., Electrical Engineering</h2>
-					<h3>University of Southern California,  Los Angeles, CA</h3>
-					
-					
-					<br>
-					<p>Aenean a pellentesque tortor. Praesent justo nibh, tempus vel
-					 scelerisque eget, tempus id quam. Praesent egestas nulla sit amet
-					 nulla cursus a lobortis lorem pulvinar. Maecenas venenatis, elit
-					 et viverra ultrices, mauris justo rutrum orcis.</p>	
-				</div><!-- end .item -->
-				
-				<div class="item">
-					<!--<h2><cufon style="width: 68px; height: 22px;" alt="University " class="cufon cufon-canvas"><canvas style="width: 104px; height: 27px; top: -4px; left: -4px;" height="27" width="104"></canvas><cufontext>University </cufontext></cufon><cufon style="width: 52px; height: 22px;" alt="State " class="cufon cufon-canvas"><canvas style="width: 87px; height: 27px; top: -4px; left: -4px;" height="27" width="87"></canvas><cufontext>Of </cufontext></cufon><cufon style="width: 93px; height: 22px;" alt="University" class="cufon cufon-canvas"><canvas style="width: 122px; height: 27px; top: -4px; left: -4px;" height="27" width="122"></canvas><cufontext>Souther</cufontext></cufon></h2>
-					-->
-					<h4>July 2010</h4>
-					<h2>B.E., Communication Engineering</h2>
-					<h3>South China Agricultural University, Guangzhou, China</h3>
-					
-					
-					<br>
-					<p>Aenean a pellentesque tortor. Praesent justo nibh, tempus vel
-					 scelerisque eget, tempus id quam. Praesent egestas nulla sit amet
-					 nulla cursus a lobortis lorem pulvinar. Maecenas venenatis, elit
-					 et viverra ultrices, mauris justo rutrum orcis.</p>	
 				</div><!-- end .item -->
 				
 			</div><!-- end .cv-section-items -->
@@ -293,7 +252,27 @@ Check out the screenshots section for a look at the code
 			
 		</div><!-- end .cv-section -->
 		
+		<!-- // EDUCATION ////////////////////////////////////////////////////////////////// -->
 		
+		<div class="cv-section last-cv-section fixed">
+		
+			<h2 class="cv-section-name"><cufon style="width: 97px; height: 24px;" alt="Education" class="cufon cufon-canvas"><canvas style="width: 128px; height: 29px; top: -4px; left: -5px;" height="29" width="128"></canvas><cufontext>Education</cufontext></cufon></h2>
+			
+			<div class="cv-section-items">
+				
+				<div class="item last-item">
+					<h2><cufon style="width: 68px; height: 22px;" alt="Boston " class="cufon cufon-canvas"><canvas style="width: 104px; height: 27px; top: -4px; left: -4px;" height="27" width="104"></canvas><cufontext>Boston </cufontext></cufon><cufon style="width: 52px; height: 22px;" alt="State " class="cufon cufon-canvas"><canvas style="width: 87px; height: 27px; top: -4px; left: -4px;" height="27" width="87"></canvas><cufontext>State </cufontext></cufon><cufon style="width: 93px; height: 22px;" alt="University" class="cufon cufon-canvas"><canvas style="width: 122px; height: 27px; top: -4px; left: -4px;" height="27" width="122"></canvas><cufontext>University</cufontext></cufon></h2>
+					<h3>Dual Major, Web Design and English - 3.9 GPA</h3>
+					<br>
+					<p>Aenean a pellentesque tortor. Praesent justo nibh, tempus vel
+					 scelerisque eget, tempus id quam. Praesent egestas nulla sit amet
+					 nulla cursus a lobortis lorem pulvinar. Maecenas venenatis, elit
+					 et viverra ultrices, mauris justo rutrum orcis.</p>	
+				</div><!-- end .item -->
+				
+			</div><!-- end .cv-section-items -->
+			
+		</div><!-- end .cv-section -->
 		
 		<!-- ////////////////////////////////////////////////////////////////////////////// -->
 	
