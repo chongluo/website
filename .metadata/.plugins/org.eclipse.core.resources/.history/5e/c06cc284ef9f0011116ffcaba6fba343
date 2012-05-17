@@ -10,7 +10,9 @@
 </head>
 <body>
 <div id="camera">
-
+	<span class="tooltip"></span>
+	<span class="camTop"></span>
+    
     <div id="screen"></div>
     <div id="buttons">
     	<div class="buttonPane">
