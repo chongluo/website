@@ -38,7 +38,7 @@ $(document).ready(function(){
 		
 		webcam.freeze();
 	
-		setTimeout("webcam.reset()",1000);
+		setTimeout("webcam.reset",1000);
 		
 		//togglePane();
 		return false;
