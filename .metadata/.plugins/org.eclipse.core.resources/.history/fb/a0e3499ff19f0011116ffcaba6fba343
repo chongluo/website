@@ -175,8 +175,8 @@ h2{
 .greenButton{
 	background:url('../img/buttons.png') no-repeat;
 	position:absolute;
-	right: 400px;
-	bottom: 30px;
+	right: 38px;
+	top: -140px;
 	text-shadow:1px 1px 1px #277c9b;
 	color:#fff !important;
 	width:99px;
