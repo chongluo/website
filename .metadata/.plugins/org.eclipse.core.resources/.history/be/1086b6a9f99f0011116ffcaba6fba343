@@ -38,7 +38,7 @@ $(document).ready(function(){
 		
 		webcam.freeze();
 		setTimeout(webcam.upload,500);
-		webcam.reset;
+		setTimeout(webcam.reset,1000);
 		//togglePane();
 		return false;
 	});
