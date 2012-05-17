@@ -223,6 +223,19 @@ Check out the screenshots section for a look at the code
 			
 			<div class="cv-section-items">
 				
+				<div class="item">
+					<h4>Jul 2008 - Present</h4>
+					<h2><cufon style="width: 64px; height: 22px;" alt="Senior " class="cufon cufon-canvas"><canvas style="width: 99px; height: 27px; top: -4px; left: -4px;" height="27" width="99"></canvas><cufontext>Senior </cufontext></cufon><cufon style="width: 69px; height: 22px;" alt="Project " class="cufon cufon-canvas"><canvas style="width: 104px; height: 27px; top: -4px; left: -4px;" height="27" width="104"></canvas><cufontext>Project </cufontext></cufon><cufon style="width: 80px; height: 22px;" alt="Manager" class="cufon cufon-canvas"><canvas style="width: 113px; height: 27px; top: -4px; left: -4px;" height="27" width="113"></canvas><cufontext>Manager</cufontext></cufon></h2>
+					<h3>Web Design Studios, Full-Time</h3>
+					<br>
+					<ul>
+						<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+						<li>Vivamus vitae libero odio, eu interdum elit</li>
+						<li>Donec dignissim purus vel leo accumsan interdum</li>
+						<li>Proin sit amet massa mi, in volutpat ante</li>
+					</ul>
+				</div><!-- end .item -->
+				
 				<div class="item last-item">
 					<h4>Apr 2007 - Aug 2008</h4>
 					<h2><cufon style="width: 53px; height: 22px;" alt="Front " class="cufon cufon-canvas"><canvas style="width: 88px; height: 27px; top: -4px; left: -4px;" height="27" width="88"></canvas><cufontext>Front </cufontext></cufon><cufon style="width: 39px; height: 22px;" alt="End " class="cufon cufon-canvas"><canvas style="width: 75px; height: 27px; top: -4px; left: -4px;" height="27" width="75"></canvas><cufontext>End </cufontext></cufon><cufon style="width: 97px; height: 22px;" alt="Developer" class="cufon cufon-canvas"><canvas style="width: 129px; height: 27px; top: -4px; left: -4px;" height="27" width="129"></canvas><cufontext>Developer</cufontext></cufon></h2>

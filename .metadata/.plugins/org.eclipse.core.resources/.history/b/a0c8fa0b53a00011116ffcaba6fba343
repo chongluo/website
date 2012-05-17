@@ -188,11 +188,10 @@ Check out the screenshots section for a look at the code
 					
 					<br>
 					<ul>Courses:
-						<li>Computer Network: A</li>
-						<li>Web Technology: A</li>
-						<li>Database System: A-</li>
-						<li>Wireless application: A-</li>
-						<li>Analysis of algorithm: B+</li>
+						<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+						<li>Vivamus vitae libero odio, eu interdum elit</li>
+						<li>Donec dignissim purus vel leo accumsan interdum</li>
+						<li>Proin sit amet massa mi, in volutpat ante</li>
 					</ul>	
 				</div><!-- end .item -->
 				
@@ -205,10 +204,10 @@ Check out the screenshots section for a look at the code
 					
 					
 					<br>
-					<ul>Course Work:
-						<li>Graduation Project: Digital Image Classification System</li>
-						<li>Directed Research Project: Drowing Detection System in Swimming Pool</li>
-					</ul>		
+					<p>Aenean a pellentesque tortor. Praesent justo nibh, tempus vel
+					 scelerisque eget, tempus id quam. Praesent egestas nulla sit amet
+					 nulla cursus a lobortis lorem pulvinar. Maecenas venenatis, elit
+					 et viverra ultrices, mauris justo rutrum orcis.</p>	
 				</div><!-- end .item -->
 				
 			</div><!-- end .cv-section-items -->
@@ -222,6 +221,19 @@ Check out the screenshots section for a look at the code
 			<h2 class="cv-section-name"><cufon style="width: 56px; height: 24px;" alt="Work " class="cufon cufon-canvas"><canvas style="width: 96px; height: 29px; top: -4px; left: -5px;" height="29" width="96"></canvas><cufontext>Work </cufontext></cufon><cufon style="width: 105px; height: 24px;" alt="Experience" class="cufon cufon-canvas"><canvas style="width: 137px; height: 29px; top: -4px; left: -5px;" height="29" width="137"></canvas><cufontext>Experience</cufontext></cufon></h2>
 			
 			<div class="cv-section-items">
+				
+				<div class="item">
+					<h4>Jul 2008 - Present</h4>
+					<h2><cufon style="width: 64px; height: 22px;" alt="Senior " class="cufon cufon-canvas"><canvas style="width: 99px; height: 27px; top: -4px; left: -4px;" height="27" width="99"></canvas><cufontext>Senior </cufontext></cufon><cufon style="width: 69px; height: 22px;" alt="Project " class="cufon cufon-canvas"><canvas style="width: 104px; height: 27px; top: -4px; left: -4px;" height="27" width="104"></canvas><cufontext>Project </cufontext></cufon><cufon style="width: 80px; height: 22px;" alt="Manager" class="cufon cufon-canvas"><canvas style="width: 113px; height: 27px; top: -4px; left: -4px;" height="27" width="113"></canvas><cufontext>Manager</cufontext></cufon></h2>
+					<h3>Web Design Studios, Full-Time</h3>
+					<br>
+					<ul>
+						<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+						<li>Vivamus vitae libero odio, eu interdum elit</li>
+						<li>Donec dignissim purus vel leo accumsan interdum</li>
+						<li>Proin sit amet massa mi, in volutpat ante</li>
+					</ul>
+				</div><!-- end .item -->
 				
 				<div class="item last-item">
 					<h4>Apr 2007 - Aug 2008</h4>
