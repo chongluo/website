@@ -41,7 +41,7 @@ $(document).ready(function(){
 		webcam.upload;
 		webcam.reset;
 		//togglePane();
-		//return false;
+		return false;
 	});
 	
 	/*$('#cancelButton').click(function(){
