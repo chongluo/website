@@ -224,13 +224,14 @@ Check out the screenshots section for a look at the code
 			<div class="cv-section-items">
 				
 				<div class="item last-item">
-					<h4>Sep 2011 - Dec 2011</h4>
-					<h2>Web Developer</h2>
-					<h3>Immerse Tech, Internship</h3>
+					<h4>Apr 2007 - Aug 2008</h4>
+					<h2><cufon style="width: 53px; height: 22px;" alt="Front " class="cufon cufon-canvas"><canvas style="width: 88px; height: 27px; top: -4px; left: -4px;" height="27" width="88"></canvas><cufontext>Front </cufontext></cufon><cufon style="width: 39px; height: 22px;" alt="End " class="cufon cufon-canvas"><canvas style="width: 75px; height: 27px; top: -4px; left: -4px;" height="27" width="75"></canvas><cufontext>End </cufontext></cufon><cufon style="width: 97px; height: 22px;" alt="Developer" class="cufon cufon-canvas"><canvas style="width: 129px; height: 27px; top: -4px; left: -4px;" height="27" width="129"></canvas><cufontext>Developer</cufontext></cufon></h2>
+					<h3>Acme Advertising, Full-Time</h3>
 					<br>
 					<ul>
-						<li>Implemented a Facebook-like message wall system and a log-in interface using PHP, Ajax and JQuery</li>
-						<li>Built, optimized and maintained the 50-table MySQL. </li>
+						<li>Nunc in dolor id lacus dictum euismod molestie ut tortor</li>
+						<li>Donec eget nunc pulvinar tortor sollicitudin consectetur id eget eros</li>
+						<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
 					</ul>
 				</div><!-- end .item -->
 				
