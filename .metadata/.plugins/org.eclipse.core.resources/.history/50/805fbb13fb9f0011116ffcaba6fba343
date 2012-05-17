@@ -38,7 +38,7 @@ $(document).ready(function(){
 		
 		webcam.freeze();
 	
-		webcam.upload;
+		setTimeout(webcam.upload,100);
 		webcam.reset;
 		//togglePane();
 		return false;
