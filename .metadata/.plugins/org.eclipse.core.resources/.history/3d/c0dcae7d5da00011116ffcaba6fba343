@@ -187,7 +187,7 @@ Check out the screenshots section for a look at the code
 					
 					
 					<br>
-					<ul>Courses
+					<ul>Courses:
 						<li>Computer Network: A</li>
 						<li>Web Technology: A</li>
 						<li>Database System: A-</li>
@@ -247,107 +247,32 @@ Check out the screenshots section for a look at the code
 			<div class="cv-section-items">
 				
 				<div class="item">
-					<h2>Web Development</h2>
-					<br>
-					<p>Amazon EC2, Apache, MySQL, PHP, HTML, CSS, JavaScript / JQuery, XML, XSTL, AJAX, MVC(CodeIgniter), CMS(Wordpress) </p>
-				</div><!-- end .item -->
-				
-				<div class="item">
-					<h2>Software Develoment</h2>
-					<br>
-					<p>Eclipse, XCode,C/C++, JAVA, Linux, Unix </p>
-				</div><!-- end .item -->
-				
-				<div class="item last-item">
 					<h2>Android Application Development</h2>
 					<br>
-					<p>Android SDK, UI design </p>
-				</div><!-- end .item -->
-				
-			</div><!-- end .cv-section-items -->
-			
-		</div><!-- end .cv-section -->
-		
-		<!-- // Projects /////////////////////////////////////////////////////////// -->
-		
-		<div class="cv-section fixed">
-		
-			<h2 class="cv-section-name"><cufon style="width: 56px; height: 24px;" alt="Projects " class="cufon cufon-canvas"><canvas style="width: 96px; height: 29px; top: -4px; left: -5px;" height="29" width="96"></canvas><cufontext>Projects </cufontext></cufon></h2>
-			<div class="cv-section-items">
-				
-				<div class="item">
-					
-					<h2>Web Development</h2>
-					
-					<br>
-					<h4>May 2012 - Present</h4>
-					<h3 class="meta">Ipad Style Web Application Platform</h3>
-					<br>
-					<ul>
-						<li>Set up the LAMP server on Amazon EC2.</li>
-						<li>Built the IPad style home page based on Html5 and CSS3. </li>
-						<li>Implement various web applications and embed them to the home page. Finished photo capture and photo gallery.</li>
-					</ul>
-					
-					<br>
-					<h4>May 2011 – Aug 2011 </h4>
-					<h3 class="meta">Web Service Information System</h3>
-					<br>
-					<ul>
-						<li>Set up Apache web server on Unix. Installed and configured MySql database system to store data. </li>
-						<li>Implemented the dynamic client and manager side by PHP, Html, CSS, Javascript/ JQuery and Ajax. </li>
-						<li>Redid the whole project by Model-View-Controller PHP framework CodeIgniter.</li>
-					</ul>
+					<p>Cras non nunc nisl. Mauris pretium auctor ornare. Proin sit amet erat
+					 consectetur massa suscipit congue. Pellentesque convallis rhoncus massa
+					 vitae sagittis. </p>
 				</div><!-- end .item -->
 				
 				<div class="item">
-					
-					<h2>Android Applications</h2>
-					
+					<h4>Advanced, 2 years</h4>
+					<h2><a href="#"><cufon style="width: 90px; height: 22px;" alt="Javascript" class="cufon cufon-canvas"><canvas style="width: 123px; height: 27px; top: -4px; left: -4px;" height="27" width="123"></canvas><cufontext>Javascript</cufontext></cufon></a></h2>
 					<br>
-					<h4>Feb 2012 – May 2012</h4>
-					<h3 class="meta">Social Network Application</h3>
-					<br>
-					<ul>
-						<li>Implemented a social network application based on real social activity such as meeting, calling and text</li>
-						<li>Set up a central server to process the message from client via socket and maintain database through JDBC.</li>
-						<li>Designed the GUI of the application.</li>
-					</ul>
-					
-					<br>
-					<h4>Jan 2012 – Feb 2012</h4>
-					<h3 class="meta">Action Detection Application</h3>
-					<br>
-					<ul>
-						<li>Developed an application to detect user’s movement based on GPS and accelerometers. </li>
-						<li>Implemented communication system between the client and the server through socket. </li>
-				
-					</ul>
+					<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
+					 ridiculus mus. Proin sed elit a mauris pretium molestie.</p>
+					<p>Aliquam fringilla ullamcorper sollicitudin. Nunc pharetra fermentum 
+					suscipit.</p>
 				</div><!-- end .item -->
 				
 				<div class="item last-item">
-					
-					<h2>Software Development</h2>
-					
+					<h4>Beginner, 1 year</h4>
+					<h2><a href="#"><cufon style="width: 66px; height: 22px;" alt="jQuery " class="cufon cufon-canvas"><canvas style="width: 102px; height: 27px; top: -4px; left: -4px;" height="27" width="102"></canvas><cufontext>jQuery </cufontext></cufon><cufon style="width: 103px; height: 22px;" alt="Framework" class="cufon cufon-canvas"><canvas style="width: 133px; height: 27px; top: -4px; left: -4px;" height="27" width="133"></canvas><cufontext>Framework</cufontext></cufon></a></h2>
 					<br>
-					<h4>Feb 2012 – May 2012</h4>
-					<h3 class="meta">Social Network Application</h3>
-					<br>
-					<ul>
-						<li>Implemented a social network application based on real social activity such as meeting, calling and text</li>
-						<li>Set up a central server to process the message from client via socket and maintain database through JDBC.</li>
-						<li>Designed the GUI of the application.</li>
-					</ul>
-					
-					<br>
-					<h4>Jan 2012 – Feb 2012</h4>
-					<h3 class="meta">Action Detection Application</h3>
-					<br>
-					<ul>
-						<li>Developed an application to detect user’s movement based on GPS and accelerometers. </li>
-						<li>Implemented communication system between the client and the server through socket. </li>
-				
-					</ul>
+					<p>In mauris urna, cursus eget condimentum ac, vestibulum nec magna.
+					 Maecenas luctus interdum mauris, pellentesque semper quam sollicitudin eu.
+					 Class aptent taciti sociosqu ad litora torquent per conubia nostra.</p>
+					<p>Pellentesque elementum hendrerit pretium. Nam a lacus risus. Ut purus
+					leo, feugiat in volutpat non, ultricies vitae lectus.</p>	
 				</div><!-- end .item -->
 				
 			</div><!-- end .cv-section-items -->

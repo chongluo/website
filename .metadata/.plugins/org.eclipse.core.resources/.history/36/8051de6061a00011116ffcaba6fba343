@@ -17,14 +17,5 @@ ul#social-media li{display:inline}
 .last-item{margin-bottom:0;padding-bottom:0;border-bottom:none}
 .person h2{color:#475261;font-family:Arial, Helvetica, sans-serif;font-size:20px;font-weight:400;letter-spacing:-.7px;text-transform:uppercase}
 h2.cv-section-name{color:#3C4756;font-size:24px;font-style:italic;font-weight:400;letter-spacing:-1px}
-.item h4:hover{background-color:#000;color:#fff}
-.item h2{color:#06A;font-family:Georgia, serif;font-size:22px;font-weight:400;letter-spacing:-1px}
-.item h2 a{color:#06A;text-decoration:none}
-.item h3{color:#262625;font-family:Georgia, serif;font-size:15px;font-style:italic;font-weight:400}
-.item ul li{list-style-type:disc}
-.last-cv-section{border-bottom:none}
-.panel{background:#f8f8f8;border:1px solid #dfdfdf;display:none;height:auto;left:0;top:66px;width:230px;position:fixed;_position:absolute;padding:30px 30px 30px 170px}
-a.emailme{_background-image:none;background:#333 url(images/bg-emailme.png) 90% 50% no-repeat;border:1px solid #444;color:#fff;display:block;font-size:15px;font-weight:700;left:0;_padding:15px 20px 15px 15px;text-decoration:none;top:85px;position:fixed;_position:absolute;padding:15px 40px 15px 15px}
-a.emailme:hover{background:#222 url(images/bg-emailme.png) 90% 50% no-repeat;_position:absolute;_background-image:none}
-a.active.emailme{background:#222 url(images/bg-emailme-extended.png) 90% 50% no-repeat;_position:absolute;_background-image:none}#contact-form{width:210px}form p{clear:both;margin-bottom:10px}input,textarea{background-color:#fff;border:1px solid #ccc;color:#515151;width:200px;padding:5px}textarea{height:50px}.btn{_height:25px;_padding:2px;width:80px}#formstatus{clear:both;font-weight:700;font-size:12px;line-height:10px}.formstatuserror{color:red}.formstatusok{color:#0C3}
-h3.meta{color:#777;font-size:18px;}
+.item h4:hover{background-color:#000;color:#fff}.item h2{color:#06A;font-family:Georgia, serif;font-size:22px;font-weight:400;letter-spacing:-1px}.item h2 a{color:#06A;text-decoration:none}.item h3{color:#262625;font-family:Georgia, serif;font-size:15px;font-style:italic;font-weight:400}.item ul li{list-style-type:disc}.last-cv-section{border-bottom:none}.panel{background:#f8f8f8;border:1px solid #dfdfdf;display:none;height:auto;left:0;top:66px;width:230px;position:fixed;_position:absolute;padding:30px 30px 30px 170px}a.emailme{_background-image:none;background:#333 url(images/bg-emailme.png) 90% 50% no-repeat;border:1px solid #444;color:#fff;display:block;font-size:15px;font-weight:700;left:0;_padding:15px 20px 15px 15px;text-decoration:none;top:85px;position:fixed;_position:absolute;padding:15px 40px 15px 15px}a.emailme:hover{background:#222 url(images/bg-emailme.png) 90% 50% no-repeat;_position:absolute;_background-image:none}a.active.emailme{background:#222 url(images/bg-emailme-extended.png) 90% 50% no-repeat;_position:absolute;_background-image:none}#contact-form{width:210px}form p{clear:both;margin-bottom:10px}input,textarea{background-color:#fff;border:1px solid #ccc;color:#515151;width:200px;padding:5px}textarea{height:50px}.btn{_height:25px;_padding:2px;width:80px}#formstatus{clear:both;font-weight:700;font-size:12px;line-height:10px}.formstatuserror{color:red}.formstatusok{color:#0C3}
+.itm h3.meta{color:#777777;font-size:22px;}
