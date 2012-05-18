@@ -339,23 +339,12 @@ Check out the screenshots section for a look at the code
 					</ul>
 					
 					<br>
-					<h4>Feb 2011 – May 2011</h4>
+					<h4>Jan 2012 – Feb 2012</h4>
 					<h3 class="meta">Geographic Information System (GIS) Application</h3>
 					<br>
 					<ul>
 						<li>Developed an tracking application based on the spatial features of Oracle database using JAVA. </li>
 						<li>Accessed the database through JDBC and design the GUI by Jigloo. </li>
-				
-					</ul>
-					
-					<br>
-					<h4>Apr 2011</h4>
-					<h3 class="meta">Socket Programming Projects</h3>
-					<br>
-					<ul>
-						<li>Simulated the communication procedure of a car rental company based on TCP and TDP socket.</li>
-						<li>Utilized FORK to implement multi-user situation; used C++.</li>
-						
 				
 					</ul>
 				</div><!-- end .item -->

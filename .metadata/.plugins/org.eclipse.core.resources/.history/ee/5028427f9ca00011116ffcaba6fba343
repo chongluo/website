@@ -330,32 +330,22 @@ Check out the screenshots section for a look at the code
 					<h2>Software Development</h2>
 					
 					<br>
-					<h4>Feb 2011 – May 2011</h4>
-					<h3 class="meta">Algorithms Programming Projects</h3>
+					<h4>Feb 2012 – May 2012</h4>
+					<h3 class="meta">Social Network Application</h3>
 					<br>
 					<ul>
-						<li>Mazes: Generated and solved Maze by BFS and Dijkstra’s Algorithm and optimized by Union-find data structure. </li>
-						<li>Sudoku: Generated and solved Sudoku. Used Dancing Link data structure to enhance efficiency by 500% higher than Brute Force</li>
+						<li>Implemented a social network application based on real social activity such as meeting, calling and text</li>
+						<li>Set up a central server to process the message from client via socket and maintain database through JDBC.</li>
+						<li>Designed the GUI of the application.</li>
 					</ul>
 					
 					<br>
-					<h4>Feb 2011 – May 2011</h4>
-					<h3 class="meta">Geographic Information System (GIS) Application</h3>
+					<h4>Jan 2012 – Feb 2012</h4>
+					<h3 class="meta">Action Detection Application</h3>
 					<br>
 					<ul>
-						<li>Developed an tracking application based on the spatial features of Oracle database using JAVA. </li>
-						<li>Accessed the database through JDBC and design the GUI by Jigloo. </li>
-				
-					</ul>
-					
-					<br>
-					<h4>Apr 2011</h4>
-					<h3 class="meta">Socket Programming Projects</h3>
-					<br>
-					<ul>
-						<li>Simulated the communication procedure of a car rental company based on TCP and TDP socket.</li>
-						<li>Utilized FORK to implement multi-user situation; used C++.</li>
-						
+						<li>Developed an application to detect user’s movement based on GPS and accelerometers. </li>
+						<li>Implemented communication system between the client and the server through socket. </li>
 				
 					</ul>
 				</div><!-- end .item -->
