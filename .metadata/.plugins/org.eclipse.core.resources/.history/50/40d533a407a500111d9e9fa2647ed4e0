@@ -132,10 +132,8 @@ $apps[3] = Array(
 
 
         <div id="lockscreen">
-        		<!-- <div class="animation">
-        			<iframe id='spacenoodle' src = 'SpaceNoodle/Space Noodles.html' />
-        	    </div> -->
-
+        	<div class="animation">
+        		<frame src = "SpaceNoodle/Space Noodles.html" />
 	            <div class="topbar">
 	                <img src="apps/lock.png" alt=""/>
 	                <span class="percentage">99%</span>
@@ -150,6 +148,7 @@ $apps[3] = Array(
 	                <div id="slider"></div>
 	                <div id="drop"></div>
 	            </div>
+            </div>
         </div>
 
 

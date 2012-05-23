@@ -132,24 +132,20 @@ $apps[3] = Array(
 
 
         <div id="lockscreen">
-        		<!-- <div class="animation">
-        			<iframe id='spacenoodle' src = 'SpaceNoodle/Space Noodles.html' />
-        	    </div> -->
-
-	            <div class="topbar">
-	                <img src="apps/lock.png" alt=""/>
-	                <span class="percentage">99%</span>
-	            </div>
-	        
-	            	<div id="lockscreentime" class="time">--:--</div>
-	    
-	            <div id="buttombar">
-	                <img src="apps/buttombar.png" alt=""/>
-	            </div>
-	            <div id="slide_here">
-	                <div id="slider"></div>
-	                <div id="drop"></div>
-	            </div>
+            <div class="topbar">
+                <img src="apps/lock.png" alt=""/>
+                <span class="percentage">99%</span>
+            </div>
+        
+            	<div id="lockscreentime" class="time">--:--</div>
+    
+            <div id="buttombar">
+                <img src="apps/buttombar.png" alt=""/>
+            </div>
+            <div id="slide_here">
+                <div id="slider"></div>
+                <div id="drop"></div>
+            </div>
         </div>
 
 
