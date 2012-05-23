@@ -13,7 +13,6 @@ var doubleclickthreshhold = 200;
 var isDblClick = false;
 var canScroll = true;
 var active_app = '';
-var shake = false;
 
 $('.page .delete,#dock .delete').live('click', function(event) {
     event.stopPropagation();
@@ -221,9 +220,6 @@ function unlockSpring() {
 }
 function homeBtnClick(){
     if(isDblClick) return;
-    if(shake){
-    	$('.app').trigger('stopRumble');
-    }
     if($('.asleep').length){
         $('.asleep').removeClass('asleep').removeClass('hidden');
     }
@@ -279,9 +275,8 @@ function edit_mode(){
             }
         });
         
-        shake = true;
-       	$('.app').jrumble();
-       	$('.app').trigger('startRumble');
+       	$('.apps').jrumble();
+       	$('.apps').trigger('startRumble');
         //confirm('test');
 
     window.clearInterval(intervall);

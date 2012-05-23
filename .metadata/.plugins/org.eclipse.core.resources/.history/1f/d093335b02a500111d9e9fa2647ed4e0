@@ -221,9 +221,6 @@ function unlockSpring() {
 }
 function homeBtnClick(){
     if(isDblClick) return;
-    if(shake){
-    	$('.app').trigger('stopRumble');
-    }
     if($('.asleep').length){
         $('.asleep').removeClass('asleep').removeClass('hidden');
     }

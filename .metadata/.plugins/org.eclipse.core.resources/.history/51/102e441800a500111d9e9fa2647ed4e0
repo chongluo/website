@@ -13,14 +13,13 @@ var doubleclickthreshhold = 200;
 var isDblClick = false;
 var canScroll = true;
 var active_app = '';
-var shake = false;
 
 $('.page .delete,#dock .delete').live('click', function(event) {
     event.stopPropagation();
     event.stopImmediatePropagation();
     if(confirm('Are you sure you want to delete this app from you iPad?')){
         $(this).parent().css({'width':74,'height':99}).children('.delete, span').hide();
-        $(this).siblings('.app_logo') //select all app_logo emelement who is the sibling"delete" 
+        $(this).siblings('.app_logo') //select all app_logo emelement who is the siblings of "delete" 
                 .stop()
                 .css('position','absolute')
                 .animate({left:"50%",width:1,top:"50%",height: 1},'easeInQuint',function(){$(this).parent().remove()}) //to create the delete animation. 
@@ -221,9 +220,6 @@ function unlockSpring() {
 }
 function homeBtnClick(){
     if(isDblClick) return;
-    if(shake){
-    	$('.app').trigger('stopRumble');
-    }
     if($('.asleep').length){
         $('.asleep').removeClass('asleep').removeClass('hidden');
     }
@@ -278,11 +274,6 @@ function edit_mode(){
                 $(ui.item).removeClass('mousedown');
             }
         });
-        
-        shake = true;
-       	$('.app').jrumble();
-       	$('.app').trigger('startRumble');
-        //confirm('test');
 
     window.clearInterval(intervall);
 };
