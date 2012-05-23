@@ -135,11 +135,16 @@ $apps[3] = Array(
                 <img src="apps/lock.png" alt=""/>
                 <span class="percentage">99%</span>
             </div>
-            <div id="lockscreentime" class="time">--:--</div>
-                <div id="slide_here">
-                    <div id="slider"></div>
-                    <div id="drop"></div>
-                </div>
+        
+            	<div id="lockscreentime" class="time">--:--</div>
+    
+            <div id="buttombar">
+                <img src="apps/buttombar.png" alt=""/>
+            </div>
+            <div id="slide_here">
+                <div id="slider"></div>
+                <div id="drop"></div>
+            </div>
         </div>
 
 

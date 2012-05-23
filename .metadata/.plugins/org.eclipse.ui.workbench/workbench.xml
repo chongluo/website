@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="21" version="2.0">
+<workbenchAdvisor/>
+<window height="820" maximized="true" width="1370" x="6" y="22">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="106" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="114" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="68" y="22"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="150" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="70" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.css" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.js" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.php" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1337187198918" focus="true" label="Workspace - Web">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.aptana.editor.php" name="index.php" partName="index.php" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/index.php" title="index.php" tooltip="ChongLuoWebsite/index.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/index.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="5920" selectionTopPixel="1653"/>
+</editor>
+<editor id="com.aptana.editor.js" name="ipad.js" partName="ipad.js" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/js/ipad.js" title="ipad.js" tooltip="ChongLuoWebsite/js/ipad.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/js/ipad.js"/>
+<editorState selectionHorizontalPixel="202" selectionLength="0" selectionOffset="15450" selectionTopPixel="6400"/>
+</editor>
+<editor id="com.aptana.editor.css" name="notes.css" partName="notes.css" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/style/notes.css" title="notes.css" tooltip="ChongLuoWebsite/style/notes.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/style/notes.css"/>
+<editorState selectionHorizontalPixel="21" selectionLength="0" selectionOffset="0" selectionTopPixel="2770"/>
+</editor>
+<editor id="com.aptana.editor.php" name="notes.php" partName="notes.php" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/notes.php" title="notes.php" tooltip="ChongLuoWebsite/notes.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/notes.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="photos.php" partName="photos.php" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/photos.php" title="photos.php" tooltip="ChongLuoWebsite/photos.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/photos.php"/>
+<editorState selectionHorizontalPixel="7" selectionLength="0" selectionOffset="8561" selectionTopPixel="2020"/>
+</editor>
+<editor id="com.aptana.editor.js" name="notes.js" partName="notes.js" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/js/notes.js" title="notes.js" tooltip="ChongLuoWebsite/js/notes.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/js/notes.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="2215"/>
+</editor>
+<editor id="com.aptana.editor.php" name="app.php" partName="app.php" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/app.php" title="app.php" tooltip="ChongLuoWebsite/app.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/app.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4584" selectionTopPixel="144"/>
+</editor>
+<editor id="com.aptana.editor.js" name="plugins.js" partName="plugins.js" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/js/plugins.js" title="plugins.js" tooltip="ChongLuoWebsite/js/plugins.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/js/plugins.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="maps.php" partName="maps.php" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/maps.php" title="maps.php" tooltip="ChongLuoWebsite/maps.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/maps.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.js" name="proxy.js" partName="proxy.js" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/js/proxy.js" title="proxy.js" tooltip="ChongLuoWebsite/js/proxy.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/js/proxy.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.php" name="proxy.php" partName="proxy.php" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/proxy.php" title="proxy.php" tooltip="ChongLuoWebsite/proxy.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/proxy.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="4360"/>
+</editor>
+<editor id="com.aptana.editor.php" name="safari.php" partName="safari.php" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/safari.php" title="safari.php" tooltip="ChongLuoWebsite/safari.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/safari.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="7248" selectionTopPixel="1064"/>
+</editor>
+<editor id="com.aptana.editor.js" name="iscroll.js" partName="iscroll.js" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/js/iscroll.js" title="iscroll.js" tooltip="ChongLuoWebsite/js/iscroll.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/js/iscroll.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.css" name="resume.css" partName="resume.css" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/style/resume.css" title="resume.css" tooltip="ChongLuoWebsite/style/resume.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/style/resume.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="423" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.css" name="styles.css" partName="styles.css" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/photobooth/assets/css/styles.css" title="styles.css" tooltip="ChongLuoWebsite/photobooth/assets/css/styles.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/photobooth/assets/css/styles.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2540" selectionTopPixel="3310"/>
+</editor>
+<editor id="com.aptana.editor.html" name="index.html" partName="index.html" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/photobooth/index.html" title="index.html" tooltip="ChongLuoWebsite/photobooth/index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/photobooth/index.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="504" selectionTopPixel="10"/>
+</editor>
+<editor id="com.aptana.editor.php" name="upload.php" partName="upload.php" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/photobooth/upload.php" title="upload.php" tooltip="ChongLuoWebsite/photobooth/upload.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/photobooth/upload.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="275"/>
+</editor>
+<editor id="com.aptana.editor.js" name="script.js" partName="script.js" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/photobooth/assets/js/script.js" title="script.js" tooltip="ChongLuoWebsite/photobooth/assets/js/script.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/photobooth/assets/js/script.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1034" selectionTopPixel="210"/>
+</editor>
+<editor id="com.aptana.editor.js" name="webcam.js" partName="webcam.js" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/photobooth/assets/webcam/webcam.js" title="webcam.js" tooltip="ChongLuoWebsite/photobooth/assets/webcam/webcam.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/photobooth/assets/webcam/webcam.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6872" selectionTopPixel="255"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.editor.php" name="resume.php" partName="resume.php" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/resume.php" title="resume.php" tooltip="ChongLuoWebsite/resume.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/resume.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="15621" selectionTopPixel="6116"/>
+</editor>
+<editor id="com.aptana.editor.css" name="screen-style.css" partName="screen-style.css" path="/Users/chongluo/Sites/Website/ChongLuoWebsite/_ CV _ RESUME Template __files/screen-style.css" title="screen-style.css" tooltip="ChongLuoWebsite/_ CV _ RESUME Template __files/screen-style.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ChongLuoWebsite/_ CV _ RESUME Template __files/screen-style.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3958" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.aptana.snippets.ui.views.SnippetsView" partName="Snippets"/>
+<view id="com.aptana.terminal.views.terminal" partName="Terminal">
+<viewState>
+<title>Terminal</title>
+<workingDirectory>/Users/chongluo/Sites/Website/ChongLuoWebsite</workingDirectory>
+</viewState>
+</view>
+<view id="com.aptana.samples.ui.SamplesView" partName="Samples"/>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Errors (2 items)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="com.aptana.explorer.view" partName="App Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" GitChangedFilesFilterEnabled="" activeProject="ChongLuoWebsite">
+<project name="ChongLuoWebsite">
+<selection>
+<element path="/ChongLuoWebsite"/>
+</selection>
+</project>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.aptana.editor.php" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
+<alwaysOnActionSet id="com.aptana.browser.actionSet"/>
+<alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.aptana.editor.common.presentation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.aptana.js.debug.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<alwaysOnActionSet id="com.aptana.ui.globalActionSet"/>
+<alwaysOnActionSet id="com.aptana.terminal.actionSet"/>
+<show_view_action id="com.aptana.browser.views.webbrowser"/>
+<show_view_action id="com.aptana.explorer.view"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="com.aptana.ui.io.remoteview"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="com.aptana.samples.ui.SamplesView"/>
+<show_view_action id="com.aptana.snippets.ui.views.SnippetsView"/>
+<show_view_action id="com.aptana.terminal.views.terminal"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.aptana.webserver.ui.view"/>
+<new_wizard_action id="com.aptana.editor.php.NewPHPProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWebProject"/>
+<new_wizard_action id="com.aptana.ruby.core.ui.rubyProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.aptana.explorer.view"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.aptana.terminal.views.terminal"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="com.aptana.samples.ui.SamplesView"/>
+<view id="com.aptana.snippets.ui.views.SnippetsView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="com.aptana.explorer.view" label="App Explorer"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="894" ratioRight="298" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.2813156" ratioLeft="402" ratioRight="1027" relationship="2" relative="left"/>
+<info folder="true" part="terminalArea" ratio="0.75" ratioLeft="573" ratioRight="191" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="com.aptana.terminal.views.terminal" label="Terminal"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@10769dd" ratio="0.75" ratioLeft="573" ratioRight="191" relationship="4" relative="left">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="com.aptana.samples.ui.SamplesView" label="Samples"/>
+<page content="com.aptana.snippets.ui.views.SnippetsView" label="Snippets"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.css" path="/ChongLuoWebsite/style/resume.css"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/ChongLuoWebsite/resume.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.css" path="/ChongLuoWebsite/photobooth/assets/css/styles.css"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" path="/ChongLuoWebsite/photobooth/index.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/ChongLuoWebsite/photobooth/upload.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/ChongLuoWebsite/photobooth/assets/js/script.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/ChongLuoWebsite/photobooth/assets/webcam/webcam.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/ChongLuoWebsite/photos.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" path="/ChongLuoWebsite/resume.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.css" path="/ChongLuoWebsite/_ CV _ RESUME Template __files/screen-style.css"/>
+</editors>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="webcam.js" index="6">
+<position info="not_deleted" x="6872" y="0"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="styles.css" index="2">
+<position info="not_deleted" x="3601" y="5"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="styles.css" index="2">
+<position info="not_deleted" x="3631" y="0"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="1277" y="0"/>
+</item>
+<item historyLabel="webcam.js" index="6">
+<position info="not_deleted" x="6872" y="0"/>
+</item>
+<item historyLabel="styles.css" index="2">
+<position info="not_deleted" x="2929" y="0"/>
+</item>
+<item historyLabel="resume.css" index="0">
+<position info="not_deleted" x="423" y="0"/>
+</item>
+<item historyLabel="index.html" index="3">
+<position info="not_deleted" x="522" y="0"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="1065" y="0"/>
+</item>
+<item historyLabel="styles.css" index="2">
+<position info="not_deleted" x="2879" y="0"/>
+</item>
+<item historyLabel="index.html" index="3">
+<position info="not_deleted" x="438" y="11"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="1065" y="0"/>
+</item>
+<item historyLabel="styles.css" index="2">
+<position info="not_deleted" x="2874" y="0"/>
+</item>
+<item historyLabel="index.html" index="3">
+<position info="not_deleted" x="438" y="11"/>
+</item>
+<item historyLabel="upload.php" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="styles.css" index="2">
+<position info="not_deleted" x="2540" y="0"/>
+</item>
+<item historyLabel="index.html" index="3">
+<position info="not_deleted" x="504" y="0"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="1065" y="0"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="985" y="0"/>
+</item>
+<item historyLabel="webcam.js" index="6">
+<position info="not_deleted" x="6872" y="0"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="1005" y="0"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="1034" y="0"/>
+</item>
+<item historyLabel="photos.php" index="7">
+<position info="not_deleted" x="8561" y="0"/>
+</item>
+<item historyLabel="resume.php" index="1">
+<position/>
+</item>
+<item historyLabel="photos.php" index="7">
+<position info="not_deleted" x="8561" y="0"/>
+</item>
+<item historyLabel="resume.php" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="photos.php" index="7">
+<position info="not_deleted" x="8561" y="0"/>
+</item>
+<item historyLabel="resume.html" index="8">
+<position info="not_deleted" x="4448" y="0"/>
+</item>
+<item historyLabel="photos.php" index="7">
+<position info="not_deleted" x="8561" y="0"/>
+</item>
+<item historyLabel="resume.php" index="1">
+<position info="not_deleted" x="5267" y="0"/>
+</item>
+<item historyLabel="screen-style.css" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="resume.php" index="1">
+<position info="not_deleted" x="12825" y="0"/>
+</item>
+<item historyLabel="screen-style.css" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="screen-style.css" index="9">
+<position/>
+</item>
+<item historyLabel="resume.php" index="1">
+<position info="not_deleted" x="12859" y="0"/>
+</item>
+<item historyLabel="screen-style.css" index="9">
+<position/>
+</item>
+<item historyLabel="resume.php" index="1">
+<position info="not_deleted" x="12867" y="1"/>
+</item>
+<item historyLabel="screen-style.css" index="9">
+<position info="not_deleted" x="3450" y="0"/>
+</item>
+<item historyLabel="resume.php" index="1">
+<position info="not_deleted" x="12917" y="0"/>
+</item>
+<item historyLabel="webcam.js" index="6">
+<position info="not_deleted" x="6872" y="0"/>
+</item>
+<item historyLabel="screen-style.css" index="9">
+<position info="not_deleted" x="3945" y="0"/>
+</item>
+<item historyLabel="resume.php" index="1">
+<position info="not_deleted" x="12917" y="0"/>
+</item>
+<item historyLabel="screen-style.css" index="9">
+<position info="not_deleted" x="3927" y="0"/>
+</item>
+<item historyLabel="resume.php" index="1">
+<position info="not_deleted" x="12917" y="0"/>
+</item>
+<item historyLabel="resume.php" index="1">
+<position info="not_deleted" x="8537" y="0"/>
+</item>
+<item historyLabel="screen-style.css" index="9">
+<position info="not_deleted" x="3958" y="0"/>
+</item>
+<item active="true" historyLabel="resume.php" index="1">
+<position info="not_deleted" x="8537" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.css" name="screen-style.css" tooltip="ChongLuoWebsite/_ CV _ RESUME Template __files/screen-style.css">
+<persistable path="/ChongLuoWebsite/_ CV _ RESUME Template __files/screen-style.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" name="resume.php" tooltip="ChongLuoWebsite/resume.php">
+<persistable path="/ChongLuoWebsite/resume.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" name="resume.html" tooltip="ChongLuoWebsite/resume.html">
+<persistable path="/ChongLuoWebsite/resume.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="webcam.js" tooltip="ChongLuoWebsite/photobooth/assets/webcam/webcam.js">
+<persistable path="/ChongLuoWebsite/photobooth/assets/webcam/webcam.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="ChongLuoWebsite/photobooth/assets/js/script.js">
+<persistable path="/ChongLuoWebsite/photobooth/assets/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" name="upload.php" tooltip="ChongLuoWebsite/photobooth/upload.php">
+<persistable path="/ChongLuoWebsite/photobooth/upload.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="ChongLuoWebsite/photobooth/index.html">
+<persistable path="/ChongLuoWebsite/photobooth/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.css" name="styles.css" tooltip="ChongLuoWebsite/photobooth/assets/css/styles.css">
+<persistable path="/ChongLuoWebsite/photobooth/assets/css/styles.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.css" name="resume.css" tooltip="ChongLuoWebsite/style/resume.css">
+<persistable path="/ChongLuoWebsite/style/resume.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="iscroll.js" tooltip="ChongLuoWebsite/js/iscroll.js">
+<persistable path="/ChongLuoWebsite/js/iscroll.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" name="srt-resume.html" tooltip="ChongLuoWebsite/srt-resume.html">
+<persistable path="/ChongLuoWebsite/srt-resume.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" name="safari.php" tooltip="ChongLuoWebsite/safari.php">
+<persistable path="/ChongLuoWebsite/safari.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" name="proxy.php" tooltip="ChongLuoWebsite/proxy.php">
+<persistable path="/ChongLuoWebsite/proxy.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="proxy.js" tooltip="ChongLuoWebsite/js/proxy.js">
+<persistable path="/ChongLuoWebsite/js/proxy.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" name="maps.php" tooltip="ChongLuoWebsite/maps.php">
+<persistable path="/ChongLuoWebsite/maps.php"/>
+</file>
+</mruList>
+</workbench>

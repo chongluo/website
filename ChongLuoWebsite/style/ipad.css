@@ -410,15 +410,23 @@ li {
     top:-1px;
 }
 #lockscreentime{
+	background:url(../apps/upperbar.png) no-repeat;
     font-size:65px;
     font-weight:normal;
     text-shadow: #000 2px 2px 15px;
     padding-top:26px;
+    top:1px;
     text-align:center;
+    z-index:3000;
 }
+#buttombar{
+	 position: absolute;
+	 bottom: -5px;
+}
+
 #slide_here {
     background: url(../apps/slide2.gif) no-repeat right 50%;
-    width: 218px;
+    width: 215px;
     height: 43px;
     position: absolute;
     bottom: 19px;
