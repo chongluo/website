@@ -1,0 +1,12 @@
+<?php
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, "http://www.goog2123121le.com");
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_HEADER, 0);
+$output = curl_exec($ch);
+if($output===FALSE){
+	echo "Error! Empty Page";
+}
+echo $output;
+curl_close($ch);
+?>

@@ -1,0 +1,46 @@
+<?php
+
+$ws = new WebScrawler();
+$url = "www.google.com";
+$ws->PageFetch($url);
+
+$data = $ws->ExtractElement("<a","</a>");
+echo $data;
+
+class WebScrawler{
+	var $ch;
+	var $htmlContent;
+	var $url;
+	
+	function WebScrawler(){
+		$this->htmlContent = "";
+	}
+	
+	function PageFetch($url){
+		$this ->url = $url;
+		$this->ch = curl_init();
+		curl_setopt($this->ch, CURLOPT_URL, $this->url);
+		curl_setopt($this->ch, CURLOPT_RETURNTRANSFER, 1);
+		curl_setopt($this->ch, CURLOPT_HEADER, 0);
+		$this->htmlContent = curl_exec($this->ch);
+		curl_close($this->ch);
+	}
+	
+	
+	function ExtractElement($tagStart, $tagEnd)
+	{
+		preg_match_all("($beg_tag.*$close_tag)siU", $this->htmlContent, $dataArray);
+		return $Array[0];
+	}
+	
+	function PrintPage(){
+		if($this->htmlContent===FALSE){
+			echo "Error! Empty Page";
+		}
+		else{
+			echo $this->htmlContent;
+		}		
+	}
+};
+
+?>

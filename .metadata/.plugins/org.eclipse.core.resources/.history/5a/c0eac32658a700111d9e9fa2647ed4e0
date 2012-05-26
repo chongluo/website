@@ -1,0 +1,52 @@
+<?php
+
+$ws = new WebScrawler();
+$url = "www.google.com";
+$ws->PageFetch($url);
+//$ws->PrintPage();
+//$data = $ws->ExtractElement("<a", "</a>");
+$data = $ws->GetLink($url);
+echo $data;
+// foreach ($data as $result) {
+	// echo $result;
+// 
+// /// store each $result in database or create a new spider to spider next page
+// 
+// }
+class WebScrawler{
+	var $ch;
+	var $htmlContent;
+	var $url;
+	
+	function WebScrawler(){
+		$this->htmlContent = "";
+	}
+	
+	function PageFetch($url){
+		$this ->url = $url;
+		$this->ch = curl_init();
+		curl_setopt($this->ch, CURLOPT_URL, $this->url);
+		curl_setopt($this->ch, CURLOPT_RETURNTRANSFER, 1);
+		curl_setopt($this->ch, CURLOPT_HEADER, 0);
+		$this->htmlContent = curl_exec($this->ch);
+		curl_close($this->ch);
+	}
+	
+	
+	function ExtractElement($tagStart, $tagEnd)
+	{
+		preg_match_all('/<a([^>]+)\>(.*?)\<\/a\>/i', $this->htmlContent, $dataArray);
+		return $dataArray[1];
+	}
+	
+	function PrintPage(){
+		if($this->htmlContent===FALSE){
+			echo "Error! Empty Page";
+		}
+		else{
+			echo $this->htmlContent;
+		}		
+	}
+};
+
+?>

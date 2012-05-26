@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Web_Crawler/Web_Crawler&apos;" deleteContents="false" description="Delete resource &apos;Web_Crawler/Web_Crawler&apos;" element1="/Web_Crawler/Web_Crawler" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1338049474556"/>
+</session>
